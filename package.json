@@ -1,0 +1,8 @@
+{
+  "name": "tini-app-store",
+  "version": "0.1.0",
+  "tiki": {
+    "appIdentifier": "vn.tiki.miniapp.tiniappstore",
+    "buildNumber": 1
+  }
+}
